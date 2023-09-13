@@ -1,0 +1,29 @@
+Moon_Nasa_1k.jpg
+1024x512
+source:
+(nasa)
+https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4720
+Direkt link:
+https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004720/lroc_color_poles_1k.jpg
+
+Space_Texture-jake-weirick-unsplash.jpg
+6000x4000
+Source:
+(unsplash)
+https://unsplash.com/photos/Q_RBVFFXR_g
+Direkt link:
+https://unsplash.com/photos/Q_RBVFFXR_g/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjc4OTQ1OTg0&force=true
+
+plain-circle.png
+512x512
+https://game-icons.net/
+
+8k_sun.jpg
+4096x2048
+https://www.solarsystemscope.com/textures/download/8k_sun.jpg
+
+Earth Folder
+https://www.solarsystemscope.com/textures/
+
+SunNormal.tif
+https://cpetry.github.io/NormalMap-Online/
