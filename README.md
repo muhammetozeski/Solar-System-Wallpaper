@@ -1,12 +1,4 @@
 # Solar-System-Wallpaper
 3D Wallpaper made with unity
-<iframe width="560" height="315"
-src="www.google.com.tr" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-[![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
-![](https://www.youtube.com/watch?v=Dh01lrGoLEY)
-
-https://github.com/muhammetozeski/Solar-System-Wallpaper/assets/51961772/5c1044ab-502d-4481-bfc2-819ab3bad767
-
+![](https://cdn1.frocdn.ch/pZQ0FgJLRtKvorT.png)
+![](https://cdn1.frocdn.ch/zN8d5Zr6Ry0162s.mp4)
